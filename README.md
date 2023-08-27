@@ -8,9 +8,9 @@ Pre-print available at: TBD. Corresponding image sets used for this project are 
 ### This repo contains the following files: <br>
 Jupyter notebook of scripts to generate CSV files for regression analysis (Base_file_generation.ipynb). <br>
 
-Jupyter notebook of scripts to perform statstical analysis in apper (Statistical_analysis_code.ipynb) <br>
+Jupyter notebook of scripts to perform statstical analysis in apper (Statistical_analysis_code.ipynb). <br>
 
-Folders for various output files (bambi_binary_bayesian_regression_outputs, csv_files, descriptive_stats, plot_outputs)
+Folders for various output files (bambi_binary_bayesian_regression_outputs, csv_files, descriptive_stats, plot_outputs). <br>
 
 ### Utilized the following core Python (version 3.8.8) libraries in project: <br>
 
