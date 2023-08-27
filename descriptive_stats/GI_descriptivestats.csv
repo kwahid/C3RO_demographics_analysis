@@ -1,0 +1,10 @@
+,,Median,25th Percentile (Q1),75th Percentile (Q3),Academic,Checked,Female,Male,No,Non-US,Non-academic,US,Unchecked,Yes
+Numerical,Total_years_of_practice,8.5,4.0,15.25,,,,,,,,,,
+Numerical,Colleague_num,4.0,2.0,10.0,,,,,,,,,,
+Categorical,Location,,,,,,,,,0.8823529411764706,,0.11764705882352941,,
+Categorical,Gender,,,,,,0.5294117647058824,0.47058823529411764,,,,,,
+Categorical,Practice_type,,,,0.47058823529411764,,,,,,0.5294117647058824,,,
+Categorical,Race_white,,,,,0.47058823529411764,,,,,,,0.5294117647058824,
+Categorical,Treat_site_Gastrointestinal,,,,,0.8235294117647058,,,,,,,0.17647058823529413,
+Categorical,Academic_affiliation,,,,,,,,0.35294117647058826,,,,,0.6470588235294118
+Categorical,Colleague_presence,,,,,,,,0.17647058823529413,,,,,0.8235294117647058
