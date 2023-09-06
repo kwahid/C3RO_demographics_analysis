@@ -12,7 +12,7 @@ Jupyter notebook of scripts to perform statstical analysis in apper (Statistical
 
 Folders for various output files (bambi_binary_bayesian_regression_outputs, csv_files, descriptive_stats, plot_outputs). <br>
 
-### Utilized the following core Python (version 3.8.8) libraries in project: <br>
+### Utilized the following core Python (version 3.8.17) libraries in project: <br>
 
 arviz version 0.15.1. <br>
 bambi version 0.12.0. <br>
