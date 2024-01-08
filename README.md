@@ -1,7 +1,7 @@
 # Determining The Role Of Radiation Oncologist Demographic Factors On Segmentation Quality: Insights From A Crowd-Sourced Challenge Using Bayesian Estimation 
 
 ## Repo for code related to C3RO demographics analysis project. 
-Pre-print available at: https://www.medrxiv.org/content/10.1101/2023.08.30.23294786v2. Corresponding image sets used for this project are avaliable on Figshare (data doi: 10.6084/m9.figshare.21074182). Data descriptor located at: https://www.medrxiv.org/content/10.1101/2022.10.05.22280672v1. All data has been anonymized to remove patient PHI. The CSV files generated as data for this specific project can also be found on Figshare (doi:10.6084/m9.figshare.24021591) <br>
+Pre-print available at: https://www.medrxiv.org/content/10.1101/2023.08.30.23294786v2. Corresponding image sets used for this project are avaliable on Figshare (data doi: 10.6084/m9.figshare.21074182). Data descriptor located at: https://www.medrxiv.org/content/10.1101/2022.10.05.22280672v1. All data has been anonymized to remove patient PHI. The CSV files generated as data for this specific project can also be found on Figshare (doi:10.6084/m9.figshare.24021591). <br>
 
 <img src= "overview_figure.png" width="700">
 
