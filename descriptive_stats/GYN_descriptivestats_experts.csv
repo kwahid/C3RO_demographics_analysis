@@ -1,0 +1,10 @@
+,,Median,25th Percentile (Q1),75th Percentile (Q3),Academic,Checked,Female,Male,Non-US,US,Unchecked,Yes
+Numerical,Total_years_of_practice,9.0,8.0,10.0,,,,,,,,
+Numerical,Colleague_num,7.0,6.0,10.0,,,,,,,,
+Categorical,Location,,,,,,,,0.2,0.8,,
+Categorical,Gender,,,,,,0.4,0.6,,,,
+Categorical,Practice_type,,,,1.0,,,,,,,
+Categorical,Race_white,,,,,0.8,,,,,0.2,
+Categorical,Treat_site_Gynecologic,,,,,1.0,,,,,,
+Categorical,Academic_affiliation,,,,,,,,,,,1.0
+Categorical,Colleague_presence,,,,,,,,,,,1.0

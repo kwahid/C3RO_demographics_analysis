@@ -1,10 +1,10 @@
-,,Median,25th Percentile (Q1),75th Percentile (Q3),Academic,Checked,Female,Male,No,Non-US,Non-academic,US,Unchecked,Yes
-Numerical,Total_years_of_practice,6.5,2.25,11.0,,,,,,,,,,
-Numerical,Colleague_num,5.0,2.0,10.0,,,,,,,,,,
-Categorical,Location,,,,,,,,,0.86,,0.14,,
-Categorical,Gender,,,,,,0.56,0.44,,,,,,
-Categorical,Practice_type,,,,0.54,,,,,,0.46,,,
-Categorical,Race_white,,,,,0.46,,,,,,,0.54,
-Categorical,Treat_site_Head__Neck,,,,,0.92,,,,,,,0.08,
-Categorical,Academic_affiliation,,,,,,,,0.36,,,,,0.64
-Categorical,Colleague_presence,,,,,,,,0.24,,,,,0.76
+,,Q1 (25th),Median,Q3 (75th),0,1
+Numerical,Total_years_of_practice,2.25,6.5,11.0,,
+Numerical,Colleague_num,2.0,5.0,10.0,,
+Categorical,Location,,,,0.86,0.14
+Categorical,Gender,,,,0.56,0.44
+Categorical,Practice_type,,,,0.54,0.46
+Categorical,Race_white,,,,0.46,0.54
+Categorical,Treat_site_Head__Neck,,,,0.92,0.08
+Categorical,Academic_affiliation,,,,0.36,0.64
+Categorical,Colleague_presence,,,,0.24,0.76
